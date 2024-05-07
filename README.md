@@ -1,4 +1,4 @@
-### Hi, I'm Guilherme Orlandin 👋
+# Hi, I'm Guilherme Orlandin 👋
 
 ### 🌱 I’m currently learning and working on ...
 <div style="display: inline_block"><br>
