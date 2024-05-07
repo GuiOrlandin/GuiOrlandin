@@ -14,7 +14,7 @@
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />    
 # </div>
 
-# Connect with me:
+### Connect with me:
 <div style="display: inline_block"><br>
 <a href="https://www.linkedin.com/in/guilherme-orlandin-580299142/" >
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
