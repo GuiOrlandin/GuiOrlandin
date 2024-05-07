@@ -1,6 +1,6 @@
 ### Hi, I'm Guilherme Orlandin 👋
 
-##🌱 I’m currently learning and working on ...
+### 🌱 I’m currently learning and working on ...
 <div style="display: inline_block"><br>
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
