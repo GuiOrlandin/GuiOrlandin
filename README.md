@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme Orlandin 👋
 
-### 🌱 I’m currently learning and working on ...
+# 🌱 I’m currently learning and working on ...
 <div style="display: inline_block"><br>
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />  
@@ -12,9 +12,9 @@
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />  
     <img height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />    
-# </div>
+ </div>
 
-### Connect with me:
+# Connect with me:
 <div style="display: inline_block"><br>
 <a href="https://www.linkedin.com/in/guilherme-orlandin-580299142/" >
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
